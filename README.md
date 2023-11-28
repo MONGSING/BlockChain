@@ -2,7 +2,7 @@
 
 Command to run: unicorn main:app --reload
 Requirements:
-pip install fastapi
-pip install uvicorn
+<b>pip install fastapi</b>
+<b>pip install uvicorn</b>
 
 in this code, I write the main blockchain code where POW, Mining, Processing, Creating Block
