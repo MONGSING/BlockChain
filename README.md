@@ -1,6 +1,6 @@
 # <h1>BlockChain</h1>
 
-Command to run: unicorn main:app --reload
+Command to run: unicorn Main:app --reload
 Requirements:<br>
 <b>pip install fastapi</b><br>
 <b>pip install uvicorn</b>
